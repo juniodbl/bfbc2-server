@@ -1,0 +1,121 @@
+vars.set Core.LogLevel Error
+vars.set memoryStatsEnable 1
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_01
+sleep 60
+server.restartLevel
+sleep 240
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_02
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_03
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_003_B
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_04
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_004_B
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_005
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_005_B
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_006
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_007
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_008
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_008_B
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+client.exitGame
+sleep 30
+client.startSingleplayer SP_009
+sleep 60
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+main.playCommands Scripts/Debug/cycleSpLevelsViaMainMenu

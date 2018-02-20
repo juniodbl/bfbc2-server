@@ -1,0 +1,102 @@
+[UTC 02/18/2018 00:59:30.047] Engine/Game/Main/Main.cpp(615): "Main": Info: Build ID: ROMEPC851434
+[UTC 02/18/2018 00:59:30.047] Engine/Game/Main/Main.cpp(635): "Main": Info: Commandline arguments:  Frost.Game.Main_Win32_Final.exe -serverInstancePath "..\instances\bc2 " -mapPack2Enabled 0 -timeStampLogNames -region EU -heartBeatInterval 20000 -displayErrors 0 -displayAsserts 0 -plasmalog 1 -server -dedicated -feslhost bfbc2-pc-server.fesl.ea.com:19021 -theaterhost bfbc2-pc-server.theater.ea.com:19026
+[UTC 02/18/2018 00:59:30.048] TnT/Core/Thread/JobQueue.cpp(91): "Main": Info: JobQueue[lq,0] created (0)
+[UTC 02/18/2018 00:59:30.050] TnT/Core/Serialization/DatabaseImpl.cpp(198): "Main": Warning: Unknown type ShaderGraph in manifest EmergencyBindings/Type entry!
+[UTC 02/18/2018 00:59:30.050] TnT/Core/Thread/JobQueue.cpp(91): "Main": Info: JobQueue[AsyncResourceLoader,0] created (0)
+[UTC 02/18/2018 00:59:30.050] TnT/Core/File/BundleBackend.cpp(41): "Main": Warning: Couldn't mount bundle '/data/dist/win32/streaming_sounds-00.fbrb'
+[UTC 02/18/2018 00:59:30.050] TnT/Core/File/BundleBackend.cpp(78): "Main": Info: Bundle backend for /data/dist/Win32/streaming_sounds ready with 0 nodes in storage
+[UTC 02/18/2018 00:59:30.050] TnT/Core/File/BundleBackend.cpp(41): "Main": Warning: Couldn't mount bundle '/data/dist/win32/async/ondemand_sounds-00.fbrb'
+[UTC 02/18/2018 00:59:30.050] TnT/Core/File/BundleBackend.cpp(78): "Main": Info: Bundle backend for /data/dist/Win32/async/ondemand_sounds ready with 0 nodes in storage
+[UTC 02/18/2018 00:59:30.050] TnT/Core/Resource/ResourceManager.cpp(1963): "Main": Warning: Added /sound/ondemand/ as a mount directory, but there's no VFS mount backing it
+[UTC 02/18/2018 00:59:30.050] TnT/Core/File/BundleBackend.cpp(41): "Main": Warning: Couldn't mount bundle '/data/dist/win32/async/ondemand_awards-00.fbrb'
+[UTC 02/18/2018 00:59:30.051] TnT/Core/File/BundleBackend.cpp(78): "Main": Info: Bundle backend for /data/dist/Win32/async/ondemand_awards ready with 0 nodes in storage
+[UTC 02/18/2018 00:59:30.051] TnT/Core/Resource/ResourceManager.cpp(1963): "Main": Warning: Added /async/awards/ as a mount directory, but there's no VFS mount backing it
+[UTC 02/18/2018 00:59:30.810] TnT/Core/Resource/ResourceManager.cpp(1482): "JobQueue[lq,0]": Info: startup (1 segment): loaded 0 resources touched in 0.051 s
+[UTC 02/18/2018 00:59:30.815] TnT/Core/Serialization/DatabaseImpl.cpp(2883): "Main": Info: Resolved 0 partitions in 0.001 seconds,139 remaining.
+[UTC 02/18/2018 00:59:30.815] TnT/Core/Resource/ResourceManager.cpp(2440): "Main": Info: Consolidated 0 deferred handles; had to load 0 from disk
+[UTC 02/18/2018 00:59:30.815] Engine/Game/Server/Server.cpp(170): "Main": Info: Creating server...
+[UTC 02/18/2018 00:59:30.818] TnT/Core/Random/Random.cpp(50): "Main": Info: Random time seed is 872
+[UTC 02/18/2018 00:59:30.818] Engine/Game/Server/Backend/Plasma/ServerBackend.cpp(836): "Main": Info: ENVIRONMENT_PROD
+[UTC 02/18/2018 00:59:30.962] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(88): "Main": Info: Map revision level up to (and including) 8 is enabled
+[UTC 02/18/2018 00:59:30.962] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/BC1_Harvest_Day_CQ
+[UTC 02/18/2018 00:59:30.962] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/BC1_Harvest_Day_GR
+[UTC 02/18/2018 00:59:30.962] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/BC1_Harvest_Day_SDM
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/BC1_Harvest_Day_SR
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/BC1_Oasis_CQ
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/BC1_Oasis_GR
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/BC1_Oasis_SDM
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/BC1_Oasis_SR
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_001
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_001SDM
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_001SR
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_002
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_002SR
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_003
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_003SR
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_004
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_004SDM
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_005
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_005GR
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_005SR
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_006
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_006CQ
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_006SDM
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_007
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_007GR
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_007SDM
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_008
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_008CQ
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_008SDM
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_009CQ
+[UTC 02/18/2018 00:59:30.963] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_009GR
+[UTC 02/18/2018 00:59:30.964] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_009SDM
+[UTC 02/18/2018 00:59:30.964] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_009SR
+[UTC 02/18/2018 00:59:30.964] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_012CQ
+[UTC 02/18/2018 00:59:30.964] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_012GR
+[UTC 02/18/2018 00:59:30.964] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_012SR
+[UTC 02/18/2018 00:59:30.964] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_SP_002GR
+[UTC 02/18/2018 00:59:30.964] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_SP_002SDM
+[UTC 02/18/2018 00:59:30.964] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_SP_002SR
+[UTC 02/18/2018 00:59:30.964] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_SP_005CQ
+[UTC 02/18/2018 00:59:30.964] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(135): "Main": Info: Map available:Levels/MP_SP_005SDM
+[UTC 02/18/2018 00:59:30.964] Engine/Game/BugSentry/BugSentry.cpp(88): "Main": Info: BugSentry config:
+[UTC 02/18/2018 00:59:30.964] Engine/Game/BugSentry/BugSentry.cpp(89): "Main": Info: 	mMode=2
+[UTC 02/18/2018 00:59:30.964] Engine/Game/BugSentry/BugSentry.cpp(90): "Main": Info: 	mEnableScreenshot=0
+[UTC 02/18/2018 00:59:30.964] Engine/Game/BugSentry/BugSentry.cpp(91): "Main": Info: 	mFilePath=..\instances\bc2 \crashreport.xml
+[UTC 02/18/2018 00:59:30.964] Engine/Game/BugSentry/BugSentry.cpp(93): "Main": Info: 	mUseHeuristicStackWalk=1
+[UTC 02/18/2018 00:59:31.002] Engine/Game/Server/ServerAdministration.cpp(789): "Main": Info: Connection password salt: BB2630B2819ADE73B82529FBA527C91A
+[UTC 02/18/2018 00:59:31.002] Engine/Game/Server/Server.cpp(1160): "Main": Info: Attempting listen to :1003
+[UTC 02/18/2018 00:59:31.002] Engine/Game/Server/Server.cpp(1177): "Main": Info: Successful.
+[UTC 02/18/2018 00:59:31.003] Engine/Game/Online/Engine/Server/ServerPeer.cpp(1370): "Main": Info: The server is called 'EC2AMAZ-4PM5QI1'
+[UTC 02/18/2018 00:59:31.003] Engine/Game/Server/Server.cpp(1618): "Main": Info: Chosen region: EU
+[UTC 02/18/2018 00:59:31.004] Engine/Game/Server/Backend/Plasma/ServerMapList.cpp(175): "Main": Info: Setting Levels/MP_003 as next map
+[UTC 02/18/2018 00:59:31.038] TnT/Core/Profiler/CpuTimingProvider.cpp(69): "Main": Warning: Couldn't find CPU index for timing event in any job thread. Adding CPU timing events outside the main thread or the job threads is not supported. Thread id: 000003F4. Assuming this is the main thread on CPU0
+[UTC 02/18/2018 00:59:31.055] Engine/Game/GameplayServer/Level/ServerLevel.cpp(138): "ServerLoad": Info: Loading server level 'Levels/MP_003'...
+[UTC 02/18/2018 00:59:31.062] TnT/Core/Resource/ResourceManager.cpp(1863): "ServerLoad": Info: Clearing resource cache
+[UTC 02/18/2018 00:59:31.070] Engine/Game/GameplayCommon/Level/Level.cpp(1123): "ServerLoad": Info: Loading resources for level 'Levels/MP_003'loadCompleteLevel
+[UTC 02/18/2018 00:59:31.075] TnT/Core/Resource/ResourceManager.cpp(1965): "ServerLoad": Warning: Added Levels/MP_003/ as a mount directory, but it will not support async loads
+[UTC 02/18/2018 00:59:31.084] Engine/Game/GameplayCommon/Time/GameTimer.cpp(354): "Main": Info: Time: 0.0018264 Frames: 2 Slept: 0.0382634 Lost: 0 Bad frames: 0
+[UTC 02/18/2018 00:59:31.611] Engine/Game/Server/Backend/Plasma/ServerBackend.cpp(2100): "Main": Info: ServerBackend::OnConnectionDisplayLoginAccount
+[UTC 02/18/2018 00:59:33.209] TnT/Core/Resource/ResourceManager.cpp(1482): "JobQueue[lq,0]": Info: level (2 segments): loaded 2400 resources touched in 1.486 s
+[UTC 02/18/2018 00:59:33.744] Engine/Game/Server/Backend/Plasma/ServerBackend.cpp(1891): "Main": Info: ServerBackend::OnConnectionReady(0019E7BC)
+[UTC 02/18/2018 00:59:34.022] TnT/Core/Resource/ResourceManager.cpp(1482): "JobQueue[lq,0]": Info: terrain (1 segment): loaded 0 resources touched in 0.116 s
+[UTC 02/18/2018 00:59:34.038] TnT/Core/Serialization/DatabaseImpl.cpp(2883): "ServerLoad": Info: Resolved 0 partitions in 0.01 seconds,1179 remaining.
+[UTC 02/18/2018 00:59:34.047] TnT/Core/Resource/ResourceManager.cpp(2440): "ServerLoad": Info: Consolidated 0 deferred handles; had to load 0 from disk
+[UTC 02/18/2018 00:59:34.057] TnT/Core/Resource/ResourceManager.cpp(2440): "ServerLoad": Info: Consolidated 0 deferred handles; had to load 0 from disk
+[UTC 02/18/2018 00:59:34.063] Engine/Game/GameplayCommon/Level/Level.cpp(1267): "ServerLoad": Info: Resources for level 'Levels/MP_003' loaded
+[UTC 02/18/2018 00:59:34.071] Engine/Game/GameplayServer/Level/ServerLevel.cpp(245): "ServerLoad": Info: Level checksum calculated: A350D73F-1218-DEFD-4F2E-A97D8BD17D3B
+[UTC 02/18/2018 00:59:34.080] Engine/Game/GameplayServer/Level/ServerLevel.cpp(335): "ServerLoad": Event: workflowevent:asset=Levels/MP_003;task=[SERVER LOAD LEVEL];type=Complete;level=Sparse;
+[UTC 02/18/2018 00:59:34.090] Engine/Game/GameplayServer/Level/ServerLevel.cpp(362): "ServerLoad": Info: ------------ Server level 'Levels/MP_003' loaded -------------
+[UTC 02/18/2018 00:59:34.126] Engine/Game/GameplayCommon/Team/TeamInfo.cpp(115): "ServerLoad": Info: Added team 0 with 0 kits
+[UTC 02/18/2018 00:59:34.132] Engine/Game/GameplayCommon/Team/TeamInfo.cpp(115): "ServerLoad": Info: Added team 1 with 8 kits
+[UTC 02/18/2018 00:59:34.138] Engine/Game/GameplayCommon/Team/TeamInfo.cpp(115): "ServerLoad": Info: Added team 2 with 8 kits
+[UTC 02/18/2018 00:59:34.159] Engine/Game/GameplayServer/Entities/Spawn/ServerVehicleSpawnEntity.cpp(1041): "ServerLoad": Warning: VehicleSpawnEntity RUSVictory Tank01 V is not on ground at 151.158 68.0602 -46.4383 spawnpoint height 68.0602 surface 69.2912. Will snap to surface.
+[UTC 02/18/2018 00:59:34.165] Engine/Game/GameplayServer/Entities/Spawn/ServerVehicleSpawnEntity.cpp(1041): "ServerLoad": Warning: VehicleSpawnEntity RUSVictory Tank04 V is not on ground at 166.083 68.0602 -46.4383 spawnpoint height 68.0602 surface 68.3909. Will snap to surface.
+[UTC 02/18/2018 00:59:34.172] Engine/Game/GameplayServer/Entities/Spawn/ServerVehicleSpawnEntity.cpp(1041): "ServerLoad": Warning: VehicleSpawnEntity RUSVictory Tank03 V is not on ground at 161.234 68.0602 -46.4383 spawnpoint height 68.0602 surface 68.5893. Will snap to surface.
+[UTC 02/18/2018 00:59:34.178] Engine/Game/GameplayServer/Entities/Spawn/ServerVehicleSpawnEntity.cpp(1041): "ServerLoad": Warning: VehicleSpawnEntity RUSVictory Tank02 V is not on ground at 156.29 68.0602 -46.4383 spawnpoint height 68.0602 surface 68.8487. Will snap to surface.
+[UTC 02/18/2018 00:59:34.189] Engine/Game/GameplayServer/Entities/Spawn/ServerVehicleSpawnEntity.cpp(1041): "ServerLoad": Warning: VehicleSpawnEntity RUSVictory Plane02 V is not on ground at 192.235 68.054 -46.4383 spawnpoint height 68.054 surface 68.452. Will snap to surface.
+[UTC 02/18/2018 00:59:34.202] Engine/Game/GameplayServer/Level/ServerLevel.cpp(463): "ServerLoad": Info: ------------ Server level 'Levels/MP_003' spawned -------------
+[UTC 02/18/2018 00:59:34.244] Engine/Game/GameplayServer/Level/ServerLevel.cpp(492): "Main": Info: ------------ Server level 'Levels/MP_003' started -------------
+[UTC 02/18/2018 00:59:34.522] TnT/Core/File/VirtualFileSystem.cpp(1026): "Main": Warning: Couldn't create directory 'local' leading up to 'local/'
+[UTC 02/18/2018 00:59:34.522] Engine/Game/Server/Backend/Plasma/ServerBackend.cpp(2367): "Main": Info: Failed to save Server ID GUID/secret to ..\instances\bc2 \serverid.dat, couldn't open file
+[UTC 02/18/2018 00:59:34.522] Engine/Game/Server/Backend/Plasma/ServerGameManagerListener.cpp(838): "Main": Info: Server is now accepting players from the Plasma backend

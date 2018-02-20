@@ -1,0 +1,184 @@
+vars.set Core.LogLevel Error
+vars.set memoryStatsEnable 1
+
+server.loadLevel Levels/MP_001
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 1
+sleep 60
+server.endRound 2
+sleep 60
+
+server.loadLevel Levels/MP_001SR
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 0
+sleep 60
+server.endRound 1
+sleep 60
+
+server.loadLevel Levels/MP_002
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 0
+sleep 60
+server.endRound 1
+sleep 60
+
+server.loadLevel Levels/MP_002SR
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 0
+sleep 60
+server.endRound 1
+sleep 60
+
+server.loadLevel Levels/MP_003
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 1
+sleep 60
+server.endRound 2
+sleep 60
+
+server.loadLevel Levels/MP_004
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 0
+sleep 60
+server.endRound 1
+sleep 60
+
+server.loadLevel Levels/MP_004SDM
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 1
+sleep 60
+server.endRound 2
+sleep 60
+
+server.loadLevel Levels/MP_005
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 0
+sleep 60
+server.endRound 1
+sleep 60
+
+server.loadLevel Levels/MP_005SR
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 0
+sleep 60
+server.endRound 1
+sleep 60
+
+server.loadLevel Levels/MP_006
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 0
+sleep 60
+server.endRound 1
+sleep 60
+
+server.loadLevel Levels/MP_006CQ
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 1
+sleep 60
+server.endRound 2
+sleep 60
+
+server.loadLevel Levels/MP_006SDM
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 1
+sleep 60
+server.endRound 2
+sleep 60
+
+server.loadLevel Levels/MP_007
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 1
+sleep 60
+server.endRound 2
+sleep 60
+
+server.loadLevel Levels/MP_007SDM
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 1
+sleep 60
+server.endRound 2
+sleep 60
+
+server.loadLevel Levels/MP_008
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 0
+sleep 60
+server.endRound 1
+sleep 60
+
+server.loadLevel Levels/MP_009CQ
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 1
+sleep 60
+server.endRound 2
+sleep 60
+
+server.loadLevel Levels/MP_009SDM
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 1
+sleep 60
+server.endRound 2
+sleep 60
+
+server.loadLevel Levels/MP_009GR
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 0
+sleep 60
+server.endRound 1
+sleep 60
+
+server.loadLevel Levels/MP_012GR
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 0
+sleep 60
+server.endRound 1
+sleep 60
+
+server.loadLevel Levels/MP_012SR
+sleep 60
+server.restartLevel
+sleep 60
+server.endRound 0
+sleep 60
+server.endRound 1
+sleep 60
+
+main.playCommands Scripts/Debug/cycleMpLevels

@@ -1,0 +1,6 @@
+client.joinMultiplayer 10.20.104.109
+sleep 60
+client.exitGame
+sleep 30
+
+main.playCommands Scripts/Debug/joinMultiplayer

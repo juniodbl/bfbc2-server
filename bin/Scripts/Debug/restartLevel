@@ -1,0 +1,8 @@
+vars.set Core.LogLevel Error
+
+server.restartLevel
+sleep 180
+client.restartFromLastCheckpoint
+sleep 60
+
+main.playCommands Scripts/Debug/restartLevel
